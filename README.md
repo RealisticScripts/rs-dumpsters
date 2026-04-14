@@ -131,4 +131,4 @@ Not included in this release, but clean fits if you want to expand later:
 
 ## License
 
-MIT
+MIT License © 2026 Realistic Scripts
