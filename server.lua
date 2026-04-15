@@ -1,4 +1,4 @@
-local currentVersion = 'v1.0.5'
+local currentVersion = 'v1.0.0'
 
 local function fetchLatestVersion(callback)
     PerformHttpRequest('https://api.github.com/repos/RealisticScripts/rs-dumpsters/releases/latest', function(statusCode, response)
