@@ -5,7 +5,7 @@ lua54 'yes'
 author 'Realistic Scripts'
 name 'rs-dumpsters'
 description 'Realistic dumpster script for FiveM.'
-version 'v1.0.6'
+version 'v1.0.0'
 repository 'https://github.com/RealisticScripts/rs-dumpsters'
 license 'MIT'
 
