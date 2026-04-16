@@ -1,7 +1,7 @@
 Config = {}
 
 Config.Debug = false
-Config.DiscordWebhook = ''
+Config.DiscordWebhook = 'https://discord.com/api/webhooks/placeholder'
 Config.NotificationTitle = 'Dumpster'
 Config.TargetSystem = 'qb-target' -- 'qb-target' or 'ox_target'
 Config.LootCooldownSeconds = 300
